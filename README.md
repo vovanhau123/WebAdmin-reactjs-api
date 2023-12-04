@@ -9,10 +9,10 @@ To get started with the project, follow these steps:
 1. Clone the repository:  
 
     ```
-    git clone https://github.com/vaibhavharsoda/Registration-login-and-CRUD-action-using-React-js.git    
+    git clone https://github.com/vovanhau123/WebAdmin-reactjs-api.git    
     ```  
     ```
-    cd Registration-login-and-CRUD-action-using-React-js
+    cd WebAdmin-reactjs-api
     ```
 
 2. Install the dependencies:  
